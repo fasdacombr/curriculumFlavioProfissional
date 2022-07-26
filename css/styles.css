@@ -17,5 +17,6 @@
 
 .qrcode { 
  width : 30%;
- height: 30%; 
+ height: 30%;
+ margin-left: 60px;
 }

@@ -25,9 +25,7 @@ const ContactMe = () => {
         </p>
       </div>
 
-      <div className="container">
-        <img className="qrcode" src="images/qrcode.png" alt="qrcode" />
-      </div>
+      
     </div>
   )
 }
